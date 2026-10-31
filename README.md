@@ -6,9 +6,9 @@
 
 ## 演示
 
-[![点击播放或下载演示视频](demo/preview.jpg)](demo/chrome_screen_camera.mp4)
+https://github.com/user-attachments/assets/8005fe9d-ca01-43ba-9007-b63829a1a72c
 
-点击上方预览图播放或下载完整演示视频（1920×1080，6 秒，含音轨）。
+如果播放器未加载，可[下载仓库内的完整 MP4](demo/chrome_screen_camera.mp4)。
 
 ## 运行环境
 
