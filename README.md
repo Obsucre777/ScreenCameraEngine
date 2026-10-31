@@ -94,6 +94,6 @@ MIT，详见 `LICENSE`。
 
 ## Star History
 
-如果这个项目对你有帮助，欢迎点一个 ⭐ Star！ <a href="https://github.com/Obsucre777/ScreenCameraEngine"><img src="https://img.shields.io/github/stars/Obsucre777/ScreenCameraEngine?style=social" alt="在 GitHub 上 Star" height="20"></a>
+如果这个项目对你有帮助，欢迎点一个 ⭐ Star！
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Obsucre777/ScreenCameraEngine&type=Date)](https://www.star-history.com/#Obsucre777/ScreenCameraEngine&Date)
