@@ -91,3 +91,9 @@ LICENSE                        MIT 许可证
 ## 许可证
 
 MIT，详见 `LICENSE`。
+
+## Star History
+
+如果这个项目对你有帮助，欢迎点一个 ⭐ Star！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Obsucre777/ScreenCameraEngine&type=Date)](https://www.star-history.com/#Obsucre777/ScreenCameraEngine&Date)
